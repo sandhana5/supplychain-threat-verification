@@ -1,0 +1,2 @@
+timestamp,src_ip,dst_ip,process_name,file_hash,signature_status,outbound_conn_5min,dns_query,log_line,jndi_present,entropy,label,anomaly_score,verdict,reason
+2025-11-28T06:19:55.923223,192.168.1.100,45.32.123.99,agent.exe,e4d6c2b3d1f8e7a9c8b6d5e4f3,Unsigned,287,c2.revil-kaseya.net,Kaseya VSA agent update deployed with malicious DLL,0,7.837,kaseya_attack,91.0,BLOCK,"CRITICAL – AI: 91/100 | Rules: 300 → High outbound connections – possible C2, Unsigned or suspicious signature, High entropy payload – possible backdoor, Known attack-related process name"

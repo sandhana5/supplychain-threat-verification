@@ -1,0 +1,16 @@
+2026-01-14T14:02:03.610104 | nan | kaseya_attack | agent.exe | Score: nan | nan
+2026-01-14T14:03:29.683750 | nan | log4j_attack | java.exe | Score: nan | nan
+2026-01-14T14:04:17.714783 | nan | solarwinds_attack | SolarWinds.Orion.exe | Score: nan | nan
+2026-01-22T12:24:50.134353 | nan | kaseya_attack | agent.exe | Score: nan | nan
+2026-01-22T12:30:36.707295 | nan | kaseya_attack | agent.exe | Score: nan | nan
+2026-01-22T12:36:06.505131 | nan | kaseya_attack | agent.exe | Score: nan | nan
+2026-01-22T12:39:29.293384 | nan | log4j_attack | java.exe | Score: nan | nan
+2026-01-22T12:40:31.744011 | nan | solarwinds_attack | SolarWinds.Orion.exe | Score: nan | nan
+2026-01-22T12:43:01.437924 | nan | kaseya_attack | agent.exe | Score: nan | nan
+2026-01-22T12:55:39.525648 | N/A | solarwinds_attack | SolarWinds.Orion.exe | Score: 0 | N/A
+2026-01-22T13:00:40.759169 | nan | xz_utils_attack | gcc | Score: nan | nan
+2026-01-28T13:43:08.205568 | nan | kaseya_attack | agent.exe | Score: nan | nan
+2026-02-04T21:34:08.774126 | nan | kaseya_attack | agent.exe | Score: nan | nan
+2026-02-05T09:33:00.307989 | N/A | kaseya_attack | agent.exe | Score: 0 | N/A
+2026-02-05T09:38:56.671418 | nan | log4j_attack | java.exe | Score: nan | nan
+2026-02-05T11:34:25.500917 | nan | kaseya_attack | agent.exe | Score: nan | nan
