@@ -1,0 +1,1 @@
+ChainGuard is an AI-driven cybersecurity system for real-time supply chain threat detection. It monitors endpoint systems, detects anomalies in processes and network activity, and provides intelligent alerts for proactive security.
